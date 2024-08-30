@@ -57,13 +57,8 @@ Please add your details to the table below after your pull request has been merg
 
 | Full Name       | Category      | Deployed Link | Date       | Tech Stack Used |
 | --------------- | ------------- | --------------|------------|-----------------|
-| Your Full Name  | Your Category | [Link](URL)   | DD-MM-YYYY | HTML, CSS, JS   |
-
-## Example Entry
-| Full Name       | Category      | Deployed Link | Date       | Tech Stack Used |
-| --------------- | ------------- | --------------|------------|-----------------|
-| John Doe        | Hero Section  | [Link](https://example.com) | 15-07-2024 | HTML, CSS, JS   |
-
+| Ankit Kumar Singh  | Hero Section | [Link]([URL](https://aksingh0108.github.io/DigiGlobe-Solutions-Projects-Lab/))   | 30-08-2024 | HTML, CSS, JS   |
+ 
 ## Note
 - Ensure your code follows the best practices and is well-documented.
 - Keep your component templates simple, reusable, and modular.
